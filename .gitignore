@@ -8,3 +8,6 @@ node_modules
 *.zip
 .DS_Store
 out
+.DS_Store
+.DS_Store
+.next
